@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816621689566",
+    "firebase_url": "https://homemonitoring-548a8.firebaseio.com",
+    "project_id": "homemonitoring-548a8",
+    "storage_bucket": "homemonitoring-548a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816621689566:android:64c9dbd4133f5227",
+        "android_client_info": {
+          "package_name": "com.s.homemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816621689566-6pmmr97a430nnv6dikat476v3mrkki3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s.homemonitoring",
+            "certificate_hash": "eec78fd3e22825fff39ae859372e1f63d9afb97e"
+          }
+        },
+        {
+          "client_id": "816621689566-id8at9lt3ccfag3spvn2j6tgbq6eprij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLxbIpRt8eSRppCcf4lyjlK2G8abjbVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816621689566-id8at9lt3ccfag3spvn2j6tgbq6eprij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
